@@ -1,0 +1,7 @@
+{
+  "name": "VibeDict AI",
+  "description": "A vibrant, AI-powered dictionary that explains language concepts with personality, images, and interactive learning tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
